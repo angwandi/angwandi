@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @angwandi
-- 👀 I’m interested in Flutter and Spring boot
-- 🌱 I’m currently learning advanced microservices with spring boot and spring cloud
-- 💞️ I’m looking to collaborate on spring boot projects
+- 👀 I’m interested in Flutter and Mobile application development 
+- 🌱 I’m actively working on several flutter apps
+- 💞️ I’m looking to collaborate on complex flutter apps
 - 📫 You can reach me on demsdema217@gmail.com
 
 <!---
